@@ -11,3 +11,7 @@ Our harness connectors are currently produced by a wire harness manufacturer in
 200-500 quantity, and we sell them for a decent margin.
 
 Your goal is to come up with a brief plan to bring harness connector manufacturing capabilities in-house to the [comma factory](https://youtu.be/PFjssb7r_uU).
+
+---
+
+Email your submission to work@comma.ai. And check out our jobs page at [comma.ai/jobs](https://comma.ai/jobs).
