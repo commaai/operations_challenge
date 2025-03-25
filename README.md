@@ -1,17 +1,18 @@
 # comma operations challenge
 
-[comma 3X](https://comma.ai/shop/comma-3x) supports more than 300 different car models from every major brand.
-The [car harness](https://comma.ai/shop/harness-connector) is our car-specific part that canonicalizes all the different
-car connectors into the "OBD-C" port that plugs into the comma 3X.
+[comma 3X](https://comma.ai/shop/comma-3x) supports 300 different car models.
+The [car harness](https://github.com/commaai/hardware/tree/master/harness) adapts the different connectors in those cars to our standard "OBD-C" port that plugs into the comma 3X.
 
-Currently, we stock [43 different harness connectors](https://github.com/commaai/hardware/tree/master/harness), and we expect the number
-of different harness connectors to continue to grow with the compatibility list.
+Currently, we stock [43 different harness connectors](https://comma.ai/shop/harness-connector), and we expect the number
+of different harness connectors to continue growing with car compatibility.
 
 Our harness connectors are currently produced by a wire harness manufacturer in
-200-500 quantity, and we sell them for a decent margin.
+batches of 500 quantity per-connector, and we sell them for a decent margin.
 
-Your goal is to come up with a brief plan to bring harness connector manufacturing capabilities in-house to the [comma factory](https://youtu.be/PFjssb7r_uU).
+Your goal is to assess the feasibility of bringing harness connector manufacturing in-house to the [comma factory](https://youtu.be/PFjssb7r_uU).
 
 ---
 
-Email your submission to work@comma.ai. And check out our jobs page at [comma.ai/jobs](https://comma.ai/jobs).
+Your deliverable is a brief writeup emailed to work@comma.ai. See [comma.ai/jobs](https://comma.ai/jobs) for more details.
+
+![image](https://github.com/user-attachments/assets/541bd314-1cb8-4206-b4b6-f1b485b7c160)
